@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Illustrator-ready editable vector source: Legacy Loom icon system -->
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 960 960">
+  <rect width="960" height="960" fill="#e9dec6"/>
+  <g fill="#3e2b1e" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2"><text x="42" y="45">LEGACY LOOM / GREEK BRONZE VECTOR SOURCE</text></g>
+  <g fill="#fbf1dc" stroke="#9a5c2e" stroke-width="3">
+    <rect x="40" y="80" width="270" height="260" rx="28"/><rect x="345" y="80" width="270" height="260" rx="28"/><rect x="650" y="80" width="270" height="260" rx="28"/>
+    <rect x="40" y="370" width="270" height="260" rx="28"/><rect x="345" y="370" width="270" height="260" rx="28"/><rect x="650" y="370" width="270" height="260" rx="28"/>
+    <rect x="40" y="660" width="270" height="260" rx="28"/><rect x="345" y="660" width="270" height="260" rx="28"/><rect x="650" y="660" width="270" height="260" rx="28"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="10">
+    <g transform="translate(25 60)" stroke="#9b562c"><path d="M150 58 214 84v54c0 47-27 76-64 99-37-23-64-52-64-99V84z"/><path d="M150 76v132M105 108h90M112 183h76"/></g>
+    <g transform="translate(330 60)" stroke="#aa6a32"><path d="M96 77h99v146H96zM96 77c-21 0-21 29 0 29m99-29c21 0 21 29 0 29M116 128h59M116 153h59M116 178h42"/></g>
+    <g transform="translate(635 60)" stroke="#7d6033"><path d="M145 223c8-46 9-92 5-144M145 122c-21-1-38-14-44-34 24 0 41 12 44 34M145 151c-24-2-43-16-49-39 27 1 46 14 49 39M151 112c21-7 40-1 53 17-24 8-44 2-53-17M150 145c24-7 44 0 57 20-27 8-48 0-57-20M147 180c-18 4-31 17-37 35M151 181c19 5 31 18 36 35"/></g>
+    <g transform="translate(25 350)" stroke="#b76b32"><path d="M121 73h58M132 73v25c0 16-25 24-25 50v42c0 25 17 39 43 39s43-14 43-39v-42c0-26-25-34-25-50V73"/><path d="M107 119c-22 3-27 28-9 42M193 119c22 3 27 28 9 42M116 160h68M116 181h68M130 202h40"/></g>
+    <g transform="translate(330 350)" stroke="#80512e"><path d="M112 213c-15-17-22-42-13-66l16-42M188 213c15-17 22-42 13-66l-16-42M116 105c20 13 48 13 68 0M112 213h76M128 124v78M150 121v81M172 124v78"/><path d="M105 91c10-17 29-24 45-12 16-12 35-5 45 12"/></g>
+    <g transform="translate(635 350)" stroke="#9b5b32"><circle cx="150" cy="154" r="69"/><path d="m150 82 29 89-29-18-29 18zM150 67v18M213 154h-18M150 241v-18M87 154h18M196 108l-13 13M104 200l13-13"/></g>
+    <g transform="translate(25 640)" stroke="#8a4729"><path d="M150 57v174M150 57l-18 31 18-9 18 9zM129 218h42M139 231h22"/><path d="M96 193c16-15 25-34 29-55M204 193c-16-15-25-34-29-55"/></g>
+    <g transform="translate(330 640)" stroke="#754326"><path d="M112 108 94 84l3 39M188 108l18-24-3 39M102 130c4-37 26-59 48-59s44 22 48 59v42c0 31-20 54-48 54s-48-23-48-54z"/><path d="M111 130c12-12 25-17 39-17s28 5 39 17M114 149h25l11-11 11 11h25M150 138v44M125 190c14 11 36 11 50 0M119 116l17-11M181 116l-17-11M116 166l-24-8M116 180l-25 5M184 166l24-8M184 180l25 5"/><circle cx="126" cy="145" r="3"/><circle cx="174" cy="145" r="3"/></g>
+    <g transform="translate(635 640)" stroke="#b27638"><path d="M105 214c-13-23-20-48-20-76 0-49 28-80 65-80 40 0 69 32 69 77 0 23-7 45-20 63"/><path d="M112 75c21-24 57-33 86-17l16 29c-33-12-70-7-99 13z"/><path d="M102 132c13-18 30-27 48-27 23 0 43 10 57 27"/><path d="M107 135c12 3 25 1 36-5l7-16 11 16c13 7 29 8 43 3"/><path d="M150 75v98l-14 23"/><path d="M92 151c2 30 13 54 35 70l24-24M208 151c-3 30-15 54-37 71l-23-25"/><path d="M112 175h25M163 175h27"/><circle cx="118" cy="118" r="3"/><circle cx="184" cy="118" r="3"/></g>
+  </g>
+  <g fill="#3e2b1e" font-family="Arial, sans-serif" font-size="18" font-weight="700"><text x="56" y="320">SHIELD</text><text x="361" y="320">SCROLL</text><text x="666" y="320">OLIVE</text><text x="56" y="610">AMPHORA</text><text x="361" y="610">LYRE</text><text x="666" y="610">SUNDIAL</text><text x="56" y="900">SPEAR</text><text x="361" y="900">LION</text><text x="666" y="900">ACHILLES</text></g>
+</svg>
