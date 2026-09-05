@@ -22,7 +22,7 @@ The icon suite is designed for a responsive web-based family archive or oral-his
 
 Each item uses an actual image-source swap from its default SVG to an active SVG, adding a bronze colour field and darkened linework. Each plays a distinct synthesized Web Audio sound that relates to the icon: shield knock, papyrus unfurl, olive-leaf rustle, clay-vessel tap, lyre chord, sunlit chime, spear strike, lion roar, and bronze helmet ring.
 
-An active icon releases a short, soft burst of its own colour. The motion respects a visitor’s reduced-motion preference.
+As an ambient layer, a fine pigment-colour cursor trail follows the visitor’s movement and fades away after 2.5 seconds. An active icon also releases a short, soft burst of its own colour. Both effects respect a visitor’s reduced-motion preference.
 
 ## Design rationale
 
