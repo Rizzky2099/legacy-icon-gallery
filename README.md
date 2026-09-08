@@ -1,4 +1,4 @@
-# Legacy Loom
+# Legacy 
 
 A self-contained HTML5 icon suite about **legacy**: the values, records, stories, shared memory, and future choices that people pass on.
 
